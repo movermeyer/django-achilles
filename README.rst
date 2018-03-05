@@ -1,7 +1,7 @@
 Achilles - Django AJAX Framework
 ================================
 
-.. image:: https://pypip.in/v/django-achilles/badge.png
+.. image:: https://img.shields.io/pypi/v/django-achilles.svg
   :target: https://pypi.python.org/pypi/django-achilles
 
 .. image:: https://secure.travis-ci.org/exekias/django-achilles.png?branch=master
